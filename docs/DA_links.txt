@@ -1,11 +1,34 @@
-https://github.com/sharkndwarf/DA_Raj
+──────────────────────────────
+🎨 DIRECTION ARTISTIQUE — JOUR 1
+Projet : Life Under The Raj
+──────────────────────────────
 
-https://docs.google.com/document/d/1nFDsM_YjbMFfTnKmDr2PEk5mWu_Iwh_IXTSN5stxgXQ/edit?usp=sharing
+📄 DOCUMENT PRINCIPAL
+DA_Raj_Jour1 :
+➡ https://github.com/tonpseudo/DA_Raj
 
-- Ciel de mousson :
-https://unsplash.com/fr/s/photos/rain-in-india
+──────────────────────────────
+📸 RÉFÉRENCES VISUELLES (libres de droits)
+──────────────────────────────
 
-- Temple simple :https://www.publicdomainpictures.net/en/view-image.php?image=197254&picture=indian-temple
+🏡 Maison rurale
+Source : Pixabay  
+Licence : CC0 (Libre de droits)  
+Lien : https://pixabay.com/photos/india-house-village-hut-rural-4350715/
 
-Maison : https://www.needpix.com/photo/download/974177/rural-india-village-random-mud-house-nature-architecture-scenic-outdoors-field
+🛕 Temple simple
+Source : Unsplash  
+Licence : Libre (Unsplash License)  
+Lien : https://unsplash.com/photos/south-india-temple-KtOid0FLjqU
 
+🌧️ Ciel de mousson
+Source : Pexels  
+Licence : Libre (Pexels License)  
+Lien : https://www.pexels.com/photo/monsoon-clouds-over-green-hills-1643954/
+
+──────────────────────────────
+📝 NOTES RAPIDES
+──────────────────────────────
+- Palette : tons terre cuite, verts saturés, gris bleuté.  
+- Ambiance : Inde rurale, humidité, texture d’argile, ciel dense.  
+- Réutilisable : base DA pour moodboard Raj_Jour2.
